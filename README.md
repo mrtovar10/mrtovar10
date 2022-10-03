@@ -1,6 +1,5 @@
 ### Hola! 👋 Mi nombre es Máximo Tovar
 &nbsp;&nbsp;
-
 <!-- **mrtovar10/mrtovar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <hr/>
@@ -45,8 +44,3 @@ Me gusta trabajar en equipo, estudiar, optimizar procesos y entender a fondo el 
 &nbsp;
 <a href="mailto:mrtovar10@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucia Meyer" width="60" /></a>
 <hr/>
-
-
-**mrtovar10/mrtovar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
