@@ -30,10 +30,10 @@ Me gusta trabajar en equipo, estudiar, optimizar procesos y entender a fondo el 
     &nbsp; 
     <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="60"/>
     &nbsp; 
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="60" />
-    &nbsp; 
     <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40"/>
     &nbsp;
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="60" />
+    &nbsp; 
 </div>
 
 
