@@ -2,16 +2,15 @@
 &nbsp;&nbsp;
 <!-- **mrtovar10/mrtovar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<hr/>
 <h2>
 Soy Full Stack Developer
 </h2>
-<hr/>
+
 &nbsp;&nbsp;
 <p>Actualmente mi fuerte es JavaScript, React, Node JS y Express.
 Me gusta trabajar en equipo, estudiar, optimizar procesos y entender a fondo el funcionamiento del código 😄</p>
 &nbsp;&nbsp;
-<hr/>
+
 
 ## Lenguajes y Tecnologías:
 <div>
@@ -37,11 +36,10 @@ Me gusta trabajar en equipo, estudiar, optimizar procesos y entender a fondo el 
     &nbsp;
 </div>
 
-<hr/>
+
 
 ## 📫 Mis datos de contacto:
 <a href="https://www.linkedin.com/in/mrtovar10/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucia Meyer" width="60" /></a>
 &nbsp;
 &nbsp;
 <a href="mailto:mrtovar10@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucia Meyer" width="60" /></a>
-<hr/>
