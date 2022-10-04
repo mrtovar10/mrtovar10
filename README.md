@@ -1,4 +1,6 @@
-### Hola! 👋 Mi nombre es Máximo Tovar
+<h2>
+Hola! 👋 Mi nombre es Máximo Tovar
+</h2>
 &nbsp;&nbsp;
 <!-- **mrtovar10/mrtovar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
