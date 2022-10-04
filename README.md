@@ -10,8 +10,9 @@ Hola! 👋 Mi nombre es Máximo Tovar
 </h2>
 
 &nbsp;&nbsp;
-<p>Actualmente mi fuerte es JavaScript, React, Node JS y Express.
-Me gusta trabajar en equipo, estudiar, optimizar procesos y entender a fondo el funcionamiento del código 😄</p>
+<p>A inicios de 2022 decidí dedicar todo mi tiempo y energía en estudiar programación web y entrar al mercado IT, lo cual ha sido una de las mejores decisiones que he tomado.  Me apasiona lo que hago, me gusta resolver problemas, ayudar y mejorar cada día. 
+Actualmente programo usando JavaScript, todavía queda mucho por aprender, pero justamente eso hace este camino muy especial. 
+✨</p>
 &nbsp;&nbsp;
 
 
