@@ -6,7 +6,7 @@ Hola! 👋 Mi nombre es Máximo Tovar
 <!-- Soy Full Stack Developer
 </h2> -->
 <h2>
-    <img src="https://github.com/mrtovar10/mrtovar10/blob/main/Imgs/HalloweenGITHUB.png" alt="Halloween"/>
+    <img src="https://github.com/mrtovar10/mrtovar10/blob/main/Imgs/Group%201Navidad.png" alt="Halloween"/>
 </h2>
 
 &nbsp;&nbsp;
