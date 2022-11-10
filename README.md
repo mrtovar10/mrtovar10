@@ -1,12 +1,12 @@
-<h2>
+<!-- <h2>
 Hola! 👋 Mi nombre es Máximo Tovar
-</h2>
+</h2> -->
 &nbsp;&nbsp;
 <!-- **mrtovar10/mrtovar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Soy Full Stack Developer
 </h2> -->
 <h2>
-    <img src="https://github.com/mrtovar10/mrtovar10/blob/main/Imgs/Merry%20Christmas2.png" alt="Navidad"/>
+    <img src="https://github.com/mrtovar10/mrtovar10/blob/main/Imgs/banner_gitHub.png" alt="Banner"/>
 </h2>
 
 &nbsp;&nbsp;
