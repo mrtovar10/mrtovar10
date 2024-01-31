@@ -11,7 +11,7 @@ Hola! 👋 Mi nombre es Máximo Tovar
 
 &nbsp;&nbsp;
 <p>A inicios de 2022 decidí dedicar todo mi tiempo y energía en estudiar programación web y entrar al mercado IT, lo cual ha sido una de las mejores decisiones que he tomado.  Me apasiona lo que hago, me gusta resolver problemas, ayudar y mejorar cada día. 
-Actualmente programo usando JavaScript, todavía queda mucho por aprender, pero justamente eso hace este camino muy especial. 
+Actualmente programo usando JavaScript / TypeScript, todavía queda mucho por aprender, pero justamente eso hace este camino muy especial. 
 ✨</p>
 &nbsp;&nbsp;
 
