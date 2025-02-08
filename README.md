@@ -1,49 +1,57 @@
-<!-- <h2>
-Hola! 👋 Mi nombre es Máximo Tovar
-</h2> -->
-&nbsp;&nbsp;
 <!-- **mrtovar10/mrtovar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<!-- Soy Full Stack Developer
-</h2> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!&height=100&section=header"/>
+</p>
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Máximo Tovar
+located_in: Valencia, Venezuela
+current_job: Frontend developer 
+education:
+  [
+    "Self-Taught Developer",
+    "Telecommunications Engineer",
+    "Bachelor's in Science"
+]
+company: Orchila Tech
+
+fields_of_interests:
+  [
+    "Web and app Development",
+    "DevOps",
+    "Data Science",
+  ]
+
+currently_learning: ["Docker, React Query, Next"]
+hobbies: ["Gaming", "Bitcoin", "Baseball", "Dancing"]
+```
+  
+---  
+  
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>     
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+</p>
+
 <h2>
-    <img src="https://github.com/mrtovar10/mrtovar10/blob/main/Imgs/banner_gitHub.png" alt="Banner"/>
+  My contact info!💬
 </h2>
 
-&nbsp;&nbsp;
-<p>A inicios de 2022 decidí dedicar todo mi tiempo y energía en estudiar programación web y entrar al mercado IT, lo cual ha sido una de las mejores decisiones que he tomado.  Me apasiona lo que hago, me gusta resolver problemas, ayudar y mejorar cada día. 
-Actualmente programo usando JavaScript / TypeScript, todavía queda mucho por aprender, pero justamente eso hace este camino muy especial. 
-✨</p>
-&nbsp;&nbsp;
-
-
-## Lenguajes y Tecnologías:
-<div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="60" /> 
-    &nbsp; 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60"/>
-    &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="60" />
-    &nbsp;
-    <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="60" />
-    &nbsp; 
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="60" />
-    &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width= "60"/>
-    &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="60"/>
-    &nbsp; 
-    <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="60"/>
-    &nbsp; 
-    <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40"/>
-    &nbsp;
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="60" />
-    &nbsp; 
-</div>
-
-
-
-## 📫 Mis datos de contacto:
-<a href="https://www.linkedin.com/in/mrtovar10/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucia Meyer" width="60" /></a>
+<a href="https://www.linkedin.com/in/mrtovar10/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Maximo Tovar Linkedin" width="60" /></a>
 &nbsp;
 &nbsp;
-<a href="mailto:mrtovar10@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucia Meyer" width="60" /></a>
+<a href="mailto:mrtovar10@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Maximo Tovar email" width="60" /></a>
